@@ -7,4 +7,4 @@ Implementation of KNN, Decision Trees, and Random Forest on the Breast Cancer da
 - scikit-learn, pandas, matplotlib, seaborn, numpy
 
 ## Usage
-main.py
+python main.py
